@@ -76,9 +76,9 @@ class DATABASE_CONFIG {
 	var $default = array(
 		'driver' => 'mysql',
 		'persistent' => false,
-		'host' => '213.47.222.80',
-		'login' => 'an000357_0005',
-		'password' => 'pbw2015',
+		'host' => 'localhost',
+		'login' => 'root',
+		'password' => '',
 		'database' => 'an000357_0005',
 		'prefix' => '',
 		'encoding' => 'utf8',
