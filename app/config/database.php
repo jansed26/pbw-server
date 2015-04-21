@@ -79,7 +79,7 @@ class DATABASE_CONFIG {
 		'host' => 'localhost',
 		'login' => 'root',
 		'password' => '',
-		'database' => 'an000357_0005',
+		'database' => 'pbw',
 		'prefix' => '',
 		'encoding' => 'utf8',
 	);
